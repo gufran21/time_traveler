@@ -47,9 +47,9 @@ export async function createAlbumPage(imageData: Record<string, string>): Promis
     ctx.fillStyle = '#555';
     ctx.fillText('on Google AI Studio', canvasWidth / 2, 220);
     
-    ctx.font = `40px 'Roboto', sans-serif`;
-    ctx.fillStyle = '#777';
-    ctx.fillText('Created by Gufran Ahmad', canvasWidth / 2, 280);
+    // ctx.font = `40px 'Roboto', sans-serif`;
+    // ctx.fillStyle = '#777';
+    // ctx.fillText('Created by Gufran Ahmad', canvasWidth / 2, 280);
 
 
     // 3. Load all the polaroid images concurrently

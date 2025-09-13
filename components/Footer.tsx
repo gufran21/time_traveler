@@ -41,6 +41,14 @@ const Footer = () => {
                             className="text-neutral-400 hover:text-yellow-400 transition-colors duration-200"
                         >
                             @ammaar
+                        </a> <span>& </span>
+                        <a
+                            href="https://www.linkedin.com/in/gufran-ahmad2004/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-neutral-400 hover:text-yellow-400 transition-colors duration-200"
+                        >
+                            @gufran
                         </a>
                     </p>
                 </div>
